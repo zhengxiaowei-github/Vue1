@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--表单及提交-->
+<form action="#" method="get" onsubmit="return aaa()">
+    <p>
+        <span>用户名：</span><input type="text" id="username" name="username">
+    </p>
+    <p>
+        <span>密码：</span><input type="password" id="password" name="password">
+    </p>
+
+    <button type="submit">提交</button>
+</form>
+
+
+<script>
+    function aaa() {
+        var uname = document.getElementById('username');
+        var pwd = document.getElementById('password');
+        alert(uname.value);
+        alert(pwd.value);
+        alert("aa");
+// ture表示通过提交
+        return true;
+    }
+</script>
+</body>
+</html>

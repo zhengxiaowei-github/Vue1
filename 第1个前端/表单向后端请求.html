@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--使用jqueery先导这个-->
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<body>
+
+
+
+
+<form action="#" method="get" >
+    <p>
+        <span>用户名：</span><input type="text" id="username" name="username">
+    </p>
+    <p>
+        <span>密码：</span><input type="password" id="password" name="password">
+    </p>
+
+    <button type="button" id="test-jquery">提交</button>
+</form>
+
+<!--<a href="" id="test-jquery">点击我</a>-->
+
+<script>
+    $('#test-jquery').click(function () {
+        alert("进来");
+        $.ajax({
+            url: "http://localhost:8081/try/7",
+             data_type:'application/json',
+            // contentType: 'application/json;charset=utf-8',
+            data: {
+                username: 123456
+            },
+            success: function(data) {
+         g       var arr = data.list;
+                alert("成功");
+                alert(arr);
+            },
+            error: function(err) {
+                alert(JSON.stringify(err));
+                alert("失败"+err);
+            }
+        });
+    })
+
+</script>
+<!--<form action="#" method="get" >-->
+    <!--<p>-->
+        <!--<span>用户名：</span><input type="text" id="username" name="username">-->
+    <!--</p>-->
+    <!--<p>-->
+        <!--<span>密码：</span><input type="password" id="password" name="password">-->
+    <!--</p>-->
+
+    <!--<button type="button"  >提交</button>-->
+<!--</form>-->
+
+<!--<a href="" id="test-jquery">erer</a>-->
+
+
+<!--<script>-->
+
+
+        <!--$('#test-jquery').click(function () {-->
+            <!--var uname = document.getElementById('username');-->
+            <!--var pwd = document.getElementById('password');-->
+            <!--alert(uname.value);-->
+            <!--alert(pwd.value);-->
+            <!--alert("hioh")-->
+            <!--$.ajax({-->
+                <!--url: "http://localhost:8081/try/7",-->
+                <!--data: {-->
+                    <!--zipcode: 97201-->
+                <!--},-->
+                <!--success: function( result ) {-->
+                    <!--$( "#weather-temp" ).html( "<strong>" + result + "</strong> degrees" );-->
+                    <!--alert("hh")-->
+                <!--},-->
+            <!--});-->
+        <!--})-->
+
+  <!--</script>-->
+</body>
+</html>
