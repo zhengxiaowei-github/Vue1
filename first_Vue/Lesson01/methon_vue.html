@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:V-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--view层模板-->
+<div id="app">
+
+    <button V-on:click="sayHi">点击</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+    var vm = new Vue({
+        el:"#app",
+        //Model:数据
+        data:{
+            message:"hello"
+        },
+        methods:{
+            sayHi: function (event) {
+                alert("小威哥");
+            }
+        }
+    });
+</script>
+</body>
+</html>

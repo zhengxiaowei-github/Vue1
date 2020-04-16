@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5d080b8-ab07-489e-959d-64127550be08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson01/Secon_vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/axios_VUr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/compont_VUe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/fisrt_vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/for_vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/methon_vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson01/try.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/bootstrap-components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/docs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/form-components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/form-custom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/form-notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/form-samples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/bootstrap-notify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/jquery.vmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/plugins/sweetalert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-invoice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-lockscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-mailbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/page-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/table-basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/table-data-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/ui-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/docs/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/node-dev-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/blank-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/bootstrap-components.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/charts.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/dashboard.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/docs.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/form-components.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/form-custom.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/form-notifications.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/form-samples.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/includes/_head.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/includes/_header.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/includes/_javascript.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/includes/_landing-icons.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/includes/_sidebar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/layouts/_layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-calendar.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-invoice.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-lockscreen.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-login.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-mailbox.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/page-user.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/table-basic.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/table-data-table.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/ui-cards.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/pug/widgets.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_bootstrap-datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_customize-bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_dataTables.bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_dropzone-basic.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_dropzone.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_fullcalendar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_jqvmap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_notify.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_pace.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_sweetalert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/bootstrap-source/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/_select2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/theme/default/_multiple.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/theme/default/_single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/1-tools/select2/theme/default/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/2-basics/_app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/2-basics/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_app-title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_button-spinner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_chat.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_custom-radio-n-checkbox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_material-half-bg.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_material-loader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_rtl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_sidebar-mini.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_tile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_toggle-button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/3-component/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_docs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_error-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_landing-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_lockscreen-material.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_login-material.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_mailbox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/4-pages/_user-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master (1)/vali-admin/src/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/.idea/vali-admin-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/bootstrap-components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/docs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/form-components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/form-custom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/form-notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/form-samples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/bootstrap-notify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/jquery-ui.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/jquery.vmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/plugins/sweetalert.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-invoice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-lockscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-mailbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/page-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/table-basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/table-data-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/try.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/ui-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/docs/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/node-dev-server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bootstark/vali-admin-master/vali-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/fisrt_vue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/Secon_vue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/for_vue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/methon_vue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/model.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/compont_VUe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01/axios_VUr.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-225">
+              <caret line="9" column="28" lean-forward="true" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson01/try.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="877">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lesson01/fisrt_vue.html" />
+        <option value="$PROJECT_DIR$/Lesson01/Secon_vue.html" />
+        <option value="$PROJECT_DIR$/Lesson01/for_vue.html" />
+        <option value="$PROJECT_DIR$/Lesson01/methon_vue.html" />
+        <option value="$PROJECT_DIR$/Lesson01/model.html" />
+        <option value="$PROJECT_DIR$/Lesson01/compont_VUe.html" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/Lesson01/axios_VUr.html" />
+        <option value="$PROJECT_DIR$/Lesson01/try.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/.m2/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="first_Vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Vue" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586954910631" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d080b8-ab07-489e-959d-64127550be08" name="Default Changelist" comment="" />
+      <created>1586946011112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586946011112</updated>
+      <workItem from="1586946016937" duration="119000" />
+      <workItem from="1586946160635" duration="5979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6098000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11839911" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lesson01/Secon_vue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/methon_vue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/for_vue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/fisrt_vue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/axios_VUr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="9" column="28" lean-forward="true" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/compont_VUe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01/try.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="877">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

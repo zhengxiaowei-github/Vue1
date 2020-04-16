@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--view层模板-->
+<div id="app">
+
+
+    <qinjiang V-for="item in items" V-bind="item"></qinjiang>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script>
+
+     Vue.component("qinjiang",{
+        props:['qin'],
+        template: '<li>{{qin}}</li>'
+    });
+
+
+    var vm = new Vue({
+        el:"#app",
+        //Model:数据
+        data:{
+            items: ["java","Linux","前端"]
+        }
+    });
+</script>
+</body>
+</html>

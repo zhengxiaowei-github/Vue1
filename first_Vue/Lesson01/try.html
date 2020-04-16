@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--view层模板-->
+<div id="app">
+
+    <!--v-model绑定表单数据，用于上传服务器-->
+   <input type="text" v-model="name" /> <input type="button" value="所艘" @click="searchCity"/>
+
+   <!--取后端返回的数据--->
+    {{title}}
+</div>
+
+
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script type="text/javascript">
+    var vm = new Vue({
+        el:"#app",
+        //Model:数据
+        data:{    //这个里面的属性必须和后端返回的属性一样
+          name:"",
+          hotCitys:["北京","上海"],
+            title:"",
+        },
+
+       methods:{
+           searchCity(){
+
+                console.log(this.name);
+                let _this = this;   //axios里面的this和外面的this不一样，需要转换才能拿到正确的数据
+                axios.get("http://localhost:8081/try/article/121").then(function (response) {
+
+                    console.log(response.data.title);
+                    _this.title = response.data.title;  //前面的title是data的，后面的title是后端返回i的
+                }).catch(function (err) {
+                    console.log(err)
+                });
+            }
+        }
+    });
+</script>
+</body>
+</html>

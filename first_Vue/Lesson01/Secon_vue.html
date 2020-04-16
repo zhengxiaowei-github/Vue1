@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--view层模板-->
+<div id="app">
+
+    <h1 V-if="ok">YES</h1>
+    <h1 V-else>No</h1>
+</div>
+
+<div id="abc">
+
+    <h1 V-if="type==='A'">A</h1>
+    <h1 V-else-if="type==='B'">B</h1>
+    <h1 V-else-if="type==='C'">C</h1>
+    <h1 V-else-if="type==='D'">D</h1>
+    <h1 V-else>other</h1>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+<script>
+    var vm = new Vue({
+        el:"#abc",
+        //Model:数据
+        data:{
+            type: 'A'
+        }
+    });
+</script>
+
+<script>
+    var vm = new Vue({
+        el:"#app",
+        //Model:数据
+        data:{
+            ok: true
+        }
+    });
+</script>
+</body>
+</html>
